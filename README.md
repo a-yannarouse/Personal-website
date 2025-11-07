@@ -1,1 +1,1 @@
-First project for GirlsWhoCode Summer immersion Program, I created my first personal website to introduce myself and add a blog section. This was my first full project using HTML, JavaScript, and CSS. Here is the [website](https://gwc-personal-website.vercel.app/).
+My first project for GirlsWhoCode was making a personal website I can use during and after the program. It has my bio, projects, and blogs that I did during the program! Here is the [website](https://gwc-personal-website.vercel.app/).
